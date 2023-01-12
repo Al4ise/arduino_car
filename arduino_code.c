@@ -52,8 +52,6 @@ void loop(){
       stop--;
     }
   }
-      Serial.println(stop);
-
 }
 
 void Forward(int speedval){
